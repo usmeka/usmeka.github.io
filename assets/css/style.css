@@ -981,7 +981,15 @@ section {
 .gallery .gallery-item:hover img {
   transform: scale(1.1);
 }
-
+#mapa {
+padding-left: 15%
+}
+#paisaje {
+padding: 10%
+}
+#hallazgo {
+padding: 5%
+}
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
